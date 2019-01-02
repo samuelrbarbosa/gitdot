@@ -1,0 +1,8 @@
+git clone [cola o copiado no Github]
+
+git add .
+git commit -m " " [mensagem]
+git push
+
+
+git pull
